@@ -3,12 +3,16 @@
     Variáveis, tipo de dados e operadores aritméticos
 */
     // a. Crie um novo arquivo chamado A04_Exercicio.kt com uma função main.
-
+    // Feito
+fun main{
     // b. Declare uma variãvel mutável capaz de armazenar seu nome completo.
+    var nome = "Henrique Bernardino Silva"
 
     // c. Declare uma variável de texto sem valor algum.
+    var vazio = ""
 
     // d. Declare uma variável imutável com o menor tipo de dado possível capaz de armazenar o número que você calça
+    var
 
     // e. Declare uma variável capaz de armazenar o PIB do Brazil este ano de 2024 que é cerca de R$ 10.900.000.000.000,00 (R$ 10,9 trilhões)
 
@@ -18,3 +22,4 @@
 
     // h. Rode seu programa de forma que não possua erros de compilação ou execução.
 //teste
+}
