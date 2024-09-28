@@ -1,3 +1,4 @@
+
 // Aula 8 - Atividade pra aula de semana q vem a partir de 27/09/2024 - Henrique Bernardino Silva
 
 fun main()
@@ -47,3 +48,4 @@ fun troca(palavra: String) {
 
 // 6. Sobre as funções criadas nos exercícios 2, 3 e 4, é possível transfomá-las em fuções de uma única linha? Se sim, trasforme-as.
 // Feito
+
